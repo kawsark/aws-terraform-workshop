@@ -10,3 +10,4 @@ module "server" {
   ami          = "${var.ami}"
   ingress_cidr = "${var.ingress_cidr}"
 }
+
